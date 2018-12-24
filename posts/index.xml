@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>今日三赞 2018-12-24</title>
+      <link>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</guid>
+      <description>2018-12-24 月曜 晴
+ 今天终于把个人博客做好了。其实严格意义上讲，3天前就做好了第一版，但是由于使用了hexo架构，上传速度非常慢，于是又转用hugo。没想到hugo比hexo复杂不少，折腾了两天才终于弄好。其实主页到现在也还不能编码中文，所以介绍还都是英文，不过只能先凑合用啦。毕竟内容才是重点。模板以后可以慢慢调整 今天跟菲菲一起办了一个100G流量的电话卡，以后可以肆无忌惮的用流量啦！ 今天Christmas Eve，本身就值得庆祝。祝大家圣诞愉快！  </description>
+    </item>
+    
+    <item>
       <title>青少年幸福量(wellbeing)表——推荐给在做积极心理学研究的同学们</title>
       <link>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
@@ -64,17 +74,6 @@ maple syrup：枫糖
  问题5：毕业后想做什么？  以后想做一些跟积极心理学有关的事儿，比如公司里做HR，推动一些积极组织的项目等等。不过也看机会。 我问她台湾有没有大学在做积极心理学，她可以去跟那边的人联系一下一起做事儿。她说似乎很少。可能因为以前不是心理学圈子还不是很了解。 后来我开玩笑说要不要考虑去大陆看看，清华有很多人在做积极心理学的实践和推广，她说可以考虑呀。我就说可以帮她推荐一下看看。
  问题6：对想申请的同学有什么建议？  有一些工作经验再来。因为很多分享和讨论大家都在交流经验，而不仅仅是学术，完全没有经验可能理解的不够深。 学好英语
  ** 希望这些信息对考虑申请墨尔本大学应用积极心理学硕士（MAPP）项目的同学有帮助。 祝大家都申请顺利 ：) **</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</guid>
-      <description> 2018-12-24 月曜 晴
- 今天终于把个人博客做好了。其实严格意义上讲，3天前就做好了第一版，但是由于使用了hexo架构，上传速度非常慢，于是又转用hugo。没想到hugo比hexo复杂不少，折腾了两天才终于弄好。其实主页到现在也还不能编码中文，所以介绍还都是英文，不过只能先凑合用啦。毕竟内容才是重点。模板以后可以慢慢调整 今天跟菲菲一起办了一个100G流量的电话卡，以后可以肆无忌惮的用流量啦！ 今天Christmas Eve，本身就值得庆祝。祝大家圣诞愉快！  title: 今日三赞 2018-12-24 date: 2018-12-24
-tags: [日志,今日三赞] </description>
     </item>
     
   </channel>
