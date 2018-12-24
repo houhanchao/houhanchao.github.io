@@ -6,7 +6,7 @@
     <description>Recent content in 研究 on Hanchao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Dec 2018 00:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://houhanchao.github.io/tags/%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,13 @@
     <item>
       <title>青少年幸福量(wellbeing)表——推荐给在做积极心理学研究的同学们</title>
       <link>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
-      <pubDate>Mon, 24 Dec 2018 00:26:00 +0000</pubDate>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
-      <description>最近在简书遇到一个心理学研究生同学，提到毕业论文想做积极心理学的研究，想用PERMA作为因变量，但是似乎又找不到很好的测量PERMA的量表。
+      <description>原文首发于简书的个人主页
+最近在简书遇到一个心理学研究生同学，提到毕业论文想做积极心理学的研究，想用PERMA作为因变量，但是似乎又找不到很好的测量PERMA的量表。
 于是在这里推荐一个青少年的幸福量表——EPOCH给想做积极心理学的同学作为结果变量。这个量表的理论基础是PERMA，不过稍微做了一点微调，更适合青少年，不过我觉得用来测大学生应该问题也不大。这个量表结构比较稳定的，以后做本科、硕士，甚至博士论文的同学需要测量幸福（wellbeing）就又多了一个选择。
-量表一共五个维度，20个题目，分别测量： &amp;gt; * 积极情绪（Engagement） &amp;gt; * 坚持性 （Perseverance） &amp;gt; * 乐观态度（Optimism） &amp;gt; * 关系（Connectedness） &amp;gt; * 积极情绪（Happiness）
+量表一共五个维度，20个题目，分别测量： * 积极情绪（Engagement） * 坚持性 （Perseverance） * 乐观态度（Optimism） * 关系（Connectedness） * 积极情绪（Happiness）
 了解一些幸福理论的同学应该可以看出来，这个量表测的幸福不是单纯的快乐，而是wellbeing，甚至偏向一点心理幸福感（psychological wellbeing），或者eudaimoia。
 Wellbeing从字面上看就能理解是人的一种非常好（well）的存在（being）状态，其实并不完全能翻译成“幸福”这个词。不过因为暂时没有很好地翻译，所以就只能用幸福这个词了，尽管翻译成幸福容易让人联想到happiness。
 就此打住了，如果说幸福的翻译估计几篇文论都不够，接下就根据自己的需求来选择吧！
@@ -28,7 +29,9 @@ Wellbeing从字面上看就能理解是人的一种非常好（well）的存在�
  如果你想看原版量表编制的文章，可以点这里： The EPOCH Measure of Adolescent Well-Being
   因为考虑到是刚刚发表的文章，所以就不方便把全文贴出来了，不过只要是在学校做研究的同学应该都用数据库查到这个全文吧。
 最后介绍一下中文修订版文章的背景和作者。
-Peggy（文章作者中的Margaret Kern）是墨尔本大学积极心理学中心的Senior Lecture，也是英文版量表的作者。之所以用英文是因为这个title翻译成中文是“高级讲师”，听起来似乎弱弱的。但其实Peggy的文章绝对已经达到国内教授博导的水平了（详情见日志：跟Peggy一起发文章的经历）。为了减少误会所以用了英文。（话说，Peggy按照这个速度发文章下去，估计很快就要升副教授了。）</description>
+Peggy（文章作者中的Margaret Kern）是墨尔本大学积极心理学中心的Senior Lecture，也是英文版量表的作者。之所以用英文是因为这个title翻译成中文是“高级讲师”，听起来似乎弱弱的。但其实Peggy的文章绝对已经达到国内教授博导的水平了（详情见日志：跟Peggy一起发文章的经历）。为了减少误会所以用了英文。（话说，Peggy按照这个速度发文章下去，估计很快就要升副教授了。）
+回头看那个日志已经是一年前的事儿了，当时提到文章被修改了4版，后来又小修了几次，直到前一段才发出来。这次经历真的让我受益很多。
+Guang Zeng是我在清华工作时候的同事和好友，最近他主编的一本书《幸福的科学》也刚刚出版不久，大家有兴趣可以关注一下：《幸福的科学》读者见面会。</description>
     </item>
     
   </channel>
