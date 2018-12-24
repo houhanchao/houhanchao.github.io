@@ -6,10 +6,19 @@
     <description>Recent content on Hanchao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Dec 2018 00:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Dec 2018 00:30:10 +1100</lastBuildDate>
     
 	<atom:link href="https://houhanchao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Archives</title>
+      <link>https://houhanchao.github.io/archives/</link>
+      <pubDate>Tue, 25 Dec 2018 00:30:10 +1100</pubDate>
+      
+      <guid>https://houhanchao.github.io/archives/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>关于我</title>
