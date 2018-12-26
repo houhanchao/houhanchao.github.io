@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://houhanchao.github.io/posts/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E6%9C%AC%E8%AF%AD%E5%88%9D%E7%BA%A7i%E5%AD%A6%E5%AE%8C%E5%95%A6%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%951/</loc>
+    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://houhanchao.github.io/archives/</loc>
     <lastmod>2018-12-25T00:30:10+11:00</lastmod>
   </url>
@@ -110,6 +115,18 @@
   <url>
     <loc>https://houhanchao.github.io/tags/%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://houhanchao.github.io/tags/%E6%97%A5%E8%AF%AD/</loc>
+    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://houhanchao.github.io/categories/%E7%9C%8B%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
