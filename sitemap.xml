@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://houhanchao.xyz/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://houhanchao.xyz/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://houhanchao.xyz/posts/2018-%E7%BB%88%E4%BA%8E%E6%8B%94%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%97%A5%E8%AF%AD%E7%9A%84flag/</loc>
     <lastmod>2018-12-28T00:00:00+00:00</lastmod>
   </url>
@@ -54,7 +64,7 @@
   
   <url>
     <loc>https://houhanchao.xyz/categories/100-%E4%B8%AA%E4%BA%BA%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,19 +100,25 @@
   
   <url>
     <loc>https://houhanchao.xyz/categories/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://houhanchao.xyz/</loc>
-    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://houhanchao.xyz/tags/hugo/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://houhanchao.xyz/posts/</loc>
-    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,13 +130,19 @@
   
   <url>
     <loc>https://houhanchao.xyz/tags/</loc>
-    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://houhanchao.xyz/tags/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://houhanchao.xyz/tags/%E6%8B%94flag/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

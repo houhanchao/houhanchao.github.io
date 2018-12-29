@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Hanchao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://houhanchao.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://houhanchao.xyz/tags/hugo/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.xyz/tags/hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>
@@ -26,6 +35,15 @@
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://houhanchao.xyz/tags/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>拔flag</title>
+      <link>https://houhanchao.xyz/tags/%E6%8B%94flag/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.xyz/tags/%E6%8B%94flag/</guid>
       <description></description>
     </item>
     
