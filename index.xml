@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanchao&#39;s Blog</title>
-    <link>https://houhanchao.github.io/</link>
+    <link>https://houhanchao.xyz/</link>
     <description>Recent content on Hanchao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://houhanchao.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://houhanchao.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018 终于拔了一个学日语的flag —— 日语学习进度记录（4）</title>
-      <link>https://houhanchao.github.io/posts/2018-%E7%BB%88%E4%BA%8E%E6%8B%94%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%97%A5%E8%AF%AD%E7%9A%84flag/</link>
+      <link>https://houhanchao.xyz/posts/2018-%E7%BB%88%E4%BA%8E%E6%8B%94%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%97%A5%E8%AF%AD%E7%9A%84flag/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/2018-%E7%BB%88%E4%BA%8E%E6%8B%94%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%97%A5%E8%AF%AD%E7%9A%84flag/</guid>
+      <guid>https://houhanchao.xyz/posts/2018-%E7%BB%88%E4%BA%8E%E6%8B%94%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%97%A5%E8%AF%AD%E7%9A%84flag/</guid>
       <description>2018年5月20日，这个520的节日里，我送了自己一个礼物——买了一个网课，开始第4次学日语。
 今天是2018年的倒数第四天，我终于完成了大家的日本语初级50课的shadowing，这大半年的日语学习算是告一段落。虽然日语并不是对我当下最有用的一个知识或者技能，不过回头看看，觉得这段经历还是很宝贵的。
 美好的时光 还记得大概是墨尔本初夏的有一天晚上，我拿出以前听过的小松未步的歌曲，发现80%能看懂的时候，自己一个人坐在屏幕前，感动到流眼泪……
@@ -48,10 +48,10 @@
     
     <item>
       <title>31岁，我终于成为了“数据分析师”</title>
-      <link>https://houhanchao.github.io/posts/31%E5%B2%81%E6%88%91%E7%BB%88%E4%BA%8E%E6%88%90%E4%B8%BA%E4%BA%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88/</link>
+      <link>https://houhanchao.xyz/posts/31%E5%B2%81%E6%88%91%E7%BB%88%E4%BA%8E%E6%88%90%E4%B8%BA%E4%BA%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/31%E5%B2%81%E6%88%91%E7%BB%88%E4%BA%8E%E6%88%90%E4%B8%BA%E4%BA%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88/</guid>
+      <guid>https://houhanchao.xyz/posts/31%E5%B2%81%E6%88%91%E7%BB%88%E4%BA%8E%E6%88%90%E4%B8%BA%E4%BA%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88/</guid>
       <description>今年4月8号的时候，我开始学习R的数据分析师课程。两个月后，我完成了全部16节课+2节额外的课（因为中间DataCamp更新了课程)，成功的拿到了一个Data Analyst的毕业证书！加上现在在大学做数据分析的RA工作，我觉得以后可以不惭愧地自称为“数据分析师”了~
 刚开始学习的时候我就说，课程结束后一定来写个总结。本来只是想总结这次的学习过程，没想到大脑的思绪一下飞到了很久之前的本科时代，那时的我希望当一个心理咨询师，是万万不能想到自己现在会兼职做data analyst，并且靠这个养活自己的。所以这次的总结就从本科吧！
 1 骨骼清奇，练武奇才？不存在的 有些故事的主人公是从开篇就展现出清奇的骨骼，一看就是练武的材料，于是一路升职加薪走上人生巅峰。不过我并没有这么好运。我本科在林大，虽然同样是学心理学，但跟后来读研的师大有很大不同。在师大统计好，论文多，你就牛“哔”；而在林大，释梦和心理分析才是王道。在那里大家每天最津津乐道的是早上起来相互释梦，是自我分析和分析别人，几乎没什么人会在乎你统计学的怎样。那个时候的我正在专心的学习心理动力学、释梦和自我成长。每天过的很开心，现在想起来非常怀念。不过对于统计，大概就只知道t检验和相关分析吧……
@@ -92,10 +92,10 @@
     
     <item>
       <title>《大家的日本语初级I》学完啦！——日语学习进度记录（1）</title>
-      <link>https://houhanchao.github.io/posts/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E6%9C%AC%E8%AF%AD%E5%88%9D%E7%BA%A7i%E5%AD%A6%E5%AE%8C%E5%95%A6%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%951/</link>
+      <link>https://houhanchao.xyz/posts/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E6%9C%AC%E8%AF%AD%E5%88%9D%E7%BA%A7i%E5%AD%A6%E5%AE%8C%E5%95%A6%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%951/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E6%9C%AC%E8%AF%AD%E5%88%9D%E7%BA%A7i%E5%AD%A6%E5%AE%8C%E5%95%A6%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%951/</guid>
+      <guid>https://houhanchao.xyz/posts/%E5%A4%A7%E5%AE%B6%E7%9A%84%E6%97%A5%E6%9C%AC%E8%AF%AD%E5%88%9D%E7%BA%A7i%E5%AD%A6%E5%AE%8C%E5%95%A6%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%951/</guid>
       <description>好开心呀！刚刷完了《大家的日本语初级I》，这里做个总结。
 1 为毛要学日语？ 每个人学日语都有自己的原因，去日本留学的不算的话，业余自学的同学大多是为了看动漫、日剧、追番、啃生肉等等。我也差不多，不过一开始我的目的很简单，就是想听懂柯南的主题曲，因为当时非常喜欢小松未步、仓木麻衣，Garnet Crow，B&amp;rsquo;z……
 你可能会说：现在都有google翻译呀，翻译一下就可以了。但是唐诗翻译成英文还是一样的东西么？ 尽管歌曲不及诗歌那么高大上，我觉得有些东西，特别是比较细腻的情感，翻译出来就不是那个味了。这也是为什么中国人很喜欢看好莱坞，但是听歌主要还是听中文歌的原因（印象中有一期《晓说》提到50%左右喜欢外国电影，但是80-90%喜欢中国的歌曲）。因为好莱坞主要是看特效和故事情节，但是听歌是听感情。感情是很难翻译的。我自己身上的经历也确实证明了这一点。以前很多歌曲只是觉得很好听，这个只是能打动耳朵。但是学了一点日语以后，某些时候听懂了一个片段，内心就会有那种被冲击和打动的感觉。
@@ -117,19 +117,19 @@
     
     <item>
       <title>Archives</title>
-      <link>https://houhanchao.github.io/archives/</link>
+      <link>https://houhanchao.xyz/archives/</link>
       <pubDate>Tue, 25 Dec 2018 00:30:10 +1100</pubDate>
       
-      <guid>https://houhanchao.github.io/archives/</guid>
+      <guid>https://houhanchao.xyz/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>https://houhanchao.github.io/about/</link>
+      <link>https://houhanchao.xyz/about/</link>
       <pubDate>Mon, 24 Dec 2018 00:35:12 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/about/</guid>
+      <guid>https://houhanchao.xyz/about/</guid>
       <description>大家好，我叫侯悍超，目前正在墨尔本大学读博士，研究方向是积极心理学。这里是我们中心所有博士生的页面，里边有我：）
 我今年30了，这个年纪对很多人来说都不会再选择读博士了，不过在国外一流大学拿到心理学的博士学位算是我想了很久的事了吧，所以虽然迟了些，但我还是选择完成这个心愿。虽然这样会让我中断在国内的工作，也会损失一些机会。不过如果有个事情你想了很久，比如超过要完成它所花的时间的2倍，那么就去把它做掉吧！我想在国外读博士一定超过6年了，花3年把它完成还是值得的。
 读博士之前，我在北师大读心理学硕士，学习心理咨询和生涯规划。毕业后我希望将所学转化为产品，于是去了可能是全国做职业生涯规划最好的公司——新精英生涯——做产品经理，当时开发了一些职业生涯测评，也跟教育部和人保部合作编了基本生涯规划的教材。算是完成了自己将所学的内容转化成实践的过程。
@@ -141,20 +141,20 @@
     
     <item>
       <title>今日三赞 2018-12-24</title>
-      <link>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</link>
+      <link>https://houhanchao.xyz/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</guid>
+      <guid>https://houhanchao.xyz/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-24/</guid>
       <description>2018-12-24 月曜 晴
  今天终于把个人博客做好了。其实严格意义上讲，3天前就做好了第一版，但是由于使用了hexo架构，上传速度非常慢，于是又转用hugo。没想到hugo比hexo复杂不少，折腾了两天才终于弄好。其实主页到现在也还不能编码中文，所以介绍还都是英文，不过只能先凑合用啦。毕竟内容才是重点。模板以后可以慢慢调整 今天跟菲菲一起办了一个100G流量的电话卡，以后可以肆无忌惮的用流量啦！ 今天Christmas Eve，本身就值得庆祝。祝大家圣诞愉快！  </description>
     </item>
     
     <item>
       <title>青少年幸福量(wellbeing)表——推荐给在做积极心理学研究的同学们</title>
-      <link>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
+      <link>https://houhanchao.xyz/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
+      <guid>https://houhanchao.xyz/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
       <description>最近在简书遇到一个心理学研究生同学，提到毕业论文想做积极心理学的研究，想用PERMA作为因变量，但是似乎又找不到很好的测量PERMA的量表。
 于是在这里推荐一个青少年的幸福量表——EPOCH给想做积极心理学的同学作为结果变量。这个量表的理论基础是PERMA，不过稍微做了一点微调，更适合青少年，不过我觉得用来测大学生应该问题也不大。这个量表结构比较稳定的，以后做本科、硕士，甚至博士论文的同学需要测量幸福（wellbeing）就又多了一个选择。
 量表一共五个维度，20个题目，分别测量：
@@ -174,10 +174,10 @@ Guang Zeng是我在清华工作时候的同事和好友，最近他主编的一�
     
     <item>
       <title>今日三赞 2018-12-22</title>
-      <link>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-22/</link>
+      <link>https://houhanchao.xyz/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-22/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-22/</guid>
+      <guid>https://houhanchao.xyz/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-22/</guid>
       <description>2018-12-22 土曜 晴 1. 跟朋友一起去吃雅拉河旁边的一个酒吧吃了晚餐。晚餐吃得很丰盛，最关键的是还有营养。羊排陪着芦笋，和很多蔬菜，还有石榴芥末酱，很神奇的味道。  一边吃饭一边学了几个单词：   pomegranate: 石榴
 asparagus：芦笋
 maple syrup：枫糖
@@ -188,10 +188,10 @@ maple syrup：枫糖
     
     <item>
       <title>在墨尔本大学读应用积极心理学硕士（MAPP）是什么体验？</title>
-      <link>https://houhanchao.github.io/posts/%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%A4%A7%E5%AD%A6%E8%AF%BB%E5%BA%94%E7%94%A8%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A1%95%E5%A3%ABmapp%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C/</link>
+      <link>https://houhanchao.xyz/posts/%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%A4%A7%E5%AD%A6%E8%AF%BB%E5%BA%94%E7%94%A8%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A1%95%E5%A3%ABmapp%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C/</link>
       <pubDate>Fri, 21 Dec 2018 00:26:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%A4%A7%E5%AD%A6%E8%AF%BB%E5%BA%94%E7%94%A8%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A1%95%E5%A3%ABmapp%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C/</guid>
+      <guid>https://houhanchao.xyz/posts/%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%A4%A7%E5%AD%A6%E8%AF%BB%E5%BA%94%E7%94%A8%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A1%95%E5%A3%ABmapp%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C/</guid>
       <description>今天参加了一个MAPP硕士班的交流会，做个简短的记录。也给想申请的同学一个参考。（非常抱歉忘记拍照片了，不能给大家最直观的体验，以后这个习惯得改改）
 这是一个非正式的交流会，目的是让一些MAPP的毕业生和在读的博士跟正在读MAPP硕士的同学分享一些经验，帮助MAPP毕业的同学选择以后的职业发展路径。
 巧的是在交流会上遇到了一个台湾来的同学，就跟她交流了一下。由于我不是MAPP的硕士，但有很多国内想申请墨大MAPP的同学会问我相关的信息，于是我就帮大家问了一下这个同学。以下内容是根据回答整理汇总的，有些不是用第一人称视角，而是我的转述，但尽量用她的原话。
@@ -206,10 +206,10 @@ maple syrup：枫糖
     
     <item>
       <title>今日三赞 2018-12-14</title>
-      <link>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-14/</link>
+      <link>https://houhanchao.xyz/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-14/</link>
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-14/</guid>
+      <guid>https://houhanchao.xyz/posts/%E4%BB%8A%E6%97%A5%E4%B8%89%E8%B5%9E-2018-12-14/</guid>
       <description>2018-12-14 金曜 小雨
 现在是12月16日，前几天忘记记录今日三赞，今天来补上。
  早上跟中心的同时一起过了圣诞party，体验了一下画油画，整个过程很有趣，旁边放着一些local喜欢的音乐，然后很投入的画画，整个人感觉进入了心流。  以前就听说油画是一层一层画的，下边的画不好，可以用上边的一次把下边的遮起来，以前对这个事情只是认知上知道，这次是亲身体验到了。

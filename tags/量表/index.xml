@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>量表 on Hanchao&#39;s Blog</title>
-    <link>https://houhanchao.github.io/tags/%E9%87%8F%E8%A1%A8/</link>
+    <link>https://houhanchao.xyz/tags/%E9%87%8F%E8%A1%A8/</link>
     <description>Recent content in 量表 on Hanchao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://houhanchao.github.io/tags/%E9%87%8F%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://houhanchao.xyz/tags/%E9%87%8F%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>青少年幸福量(wellbeing)表——推荐给在做积极心理学研究的同学们</title>
-      <link>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
+      <link>https://houhanchao.xyz/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://houhanchao.github.io/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
+      <guid>https://houhanchao.xyz/posts/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%B9%B8%E7%A6%8F%E9%87%8Fwellbeing%E8%A1%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E5%9C%A8%E5%81%9A%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
       <description>最近在简书遇到一个心理学研究生同学，提到毕业论文想做积极心理学的研究，想用PERMA作为因变量，但是似乎又找不到很好的测量PERMA的量表。
 于是在这里推荐一个青少年的幸福量表——EPOCH给想做积极心理学的同学作为结果变量。这个量表的理论基础是PERMA，不过稍微做了一点微调，更适合青少年，不过我觉得用来测大学生应该问题也不大。这个量表结构比较稳定的，以后做本科、硕士，甚至博士论文的同学需要测量幸福（wellbeing）就又多了一个选择。
 量表一共五个维度，20个题目，分别测量：
