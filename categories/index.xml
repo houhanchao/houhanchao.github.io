@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hanchao&#39;s Blog</title>
     <link>https://houhanchao.xyz/categories/</link>
     <description>Recent content in Categories on Hanchao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://houhanchao.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>400 看世界</title>
+      <link>https://houhanchao.xyz/categories/400-%E7%9C%8B%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.xyz/categories/400-%E7%9C%8B%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>100 个人日常</title>
@@ -16,6 +25,33 @@
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://houhanchao.xyz/categories/100-%E4%B8%AA%E4%BA%BA%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>400 乐学</title>
+      <link>https://houhanchao.xyz/categories/400-%E4%B9%90%E5%AD%A6/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.xyz/categories/400-%E4%B9%90%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>440 看世界</title>
+      <link>https://houhanchao.xyz/categories/440-%E7%9C%8B%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.xyz/categories/440-%E7%9C%8B%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>430 大数据</title>
+      <link>https://houhanchao.xyz/categories/430-%E5%A4%A7%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://houhanchao.xyz/categories/430-%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid>
       <description></description>
     </item>
     
@@ -34,42 +70,6 @@
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://houhanchao.xyz/categories/310-%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>400 乐学</title>
-      <link>https://houhanchao.xyz/categories/400-%E4%B9%90%E5%AD%A6/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://houhanchao.xyz/categories/400-%E4%B9%90%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>400 看世界</title>
-      <link>https://houhanchao.xyz/categories/400-%E7%9C%8B%E4%B8%96%E7%95%8C/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://houhanchao.xyz/categories/400-%E7%9C%8B%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>430 大数据</title>
-      <link>https://houhanchao.xyz/categories/430-%E5%A4%A7%E6%95%B0%E6%8D%AE/</link>
-      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://houhanchao.xyz/categories/430-%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>440 看世界</title>
-      <link>https://houhanchao.xyz/categories/440-%E7%9C%8B%E4%B8%96%E7%95%8C/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://houhanchao.xyz/categories/440-%E7%9C%8B%E4%B8%96%E7%95%8C/</guid>
       <description></description>
     </item>
     
